@@ -1,4 +1,4 @@
-### Olá! Eu sou o Andersson Damásio 🖐️
+### Olá! Eu sou o Andersson Damásio 🙋‍♂️
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
