@@ -1,6 +1,6 @@
-### Olá! Eu sou o Andersson Damásio 🙋‍♂️
+# Olá! Eu sou o Andersson Damásio 🙋‍♂️
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+## Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ![Andersson damasio GitHub stats](https://github-readme-stats.vercel.app/api?username=Damasio1&show_icons=true&theme=radical)
 <div> 
