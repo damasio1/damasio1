@@ -1,7 +1,7 @@
 # Olá! Eu sou o Andersson Damásio 🙋‍♂️
 
 ### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. Sou um apaixonado, atlético, desenvolvedor de software full stack.
-## Meu objetivo é tornar a vida das pessoas melhor e mais fácil através do desenvolvimento de aplicativos e sites.
+### Meu objetivo é tornar a vida das pessoas melhor e mais fácil através do desenvolvimento de aplicativos e sites.
 
 ![Andersson damasio GitHub stats](https://github-readme-stats.vercel.app/api?username=Damasio1&show_icons=true&theme=radical)
 <div> 
