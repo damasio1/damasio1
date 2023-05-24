@@ -1,7 +1,7 @@
 # Olá! Eu sou o Andersson Damásio 👨🏻‍💻
 
 ### Sou um apaixonado por tecnologia, atlético, desenvolvedor de software full stack. 
-HTML | CSS | JAVASCRIPT | NODEJS | TYPESCRIPT | REACT
+
 ### Meu objetivo é tornar a vida das pessoas melhor e mais fácil através do desenvolvimento de aplicativos e sites.
 
 ![Andersson damasio GitHub stats](https://github-readme-stats.vercel.app/api?username=Damasio1&show_icons=true&theme=Winteriscoming)
